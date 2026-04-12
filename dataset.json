@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Metro-wide restaurant data for the McAllen-Edinburg-Mission (Metro), Texas metropolitan area, spanning McAllen, Edinburg, and Mission. Covers the full metropolitan dining ecosystem of a mid-size metropolitan dining market. Filtered by the Restaurants category group with ratings, review analytics, competitive positioning, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in McAllen-Edinburg-Mission (Metro), Texas, US",
+  "export_job_id": "aee5e841-e447-4804-9cb9-4380155fc7d2",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 324165,
+  "location_name": "McAllen-Edinburg-Mission, TX",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-mcallen-edinburg-mission-metro-texas-us-sample-324165",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/324165/beamstation_324165_restaurants-us-mcallenedinburgmissiontx_SAMPLE_DIST.csv",
+  "sample_pct": 1.83,
+  "sample_records": 25,
+  "sample_sha256": "55785c0b85e2dcfea2b99a5a7274dbcfea3983f75127080f277f7333ad47de75",
+  "sample_size_bytes": 118711,
+  "total_records": 1365,
+  "updated_at": "2026-03-31T15:57:33.563049+00:00"
+}
