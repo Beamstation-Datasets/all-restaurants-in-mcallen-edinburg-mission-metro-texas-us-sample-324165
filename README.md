@@ -1,6 +1,6 @@
 # All Restaurants in McAllen-Edinburg-Mission (Metro), Texas, US
 
-> Free BeamStation sample export with 161 rows and masked direct-contact fields.
+> Free BeamStation sample export with 147 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `324165` |
 | Location | McAllen-Edinburg-Mission, TX |
 | Category | Restaurants |
-| Full dataset size | 1,617 records |
-| Free sample size | 161 records (9.96%) |
-| Last export | 2026-04-14T16:42:42.615111+00:00 |
+| Full dataset size | 1,474 records |
+| Free sample size | 147 records (9.97%) |
+| Last export | 2026-04-21T18:20:43.961490+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-mcallen-edinburg-mission-metro-texas-us-sample-324165/releases/download/sample-latest/beamstation_324165_restaurants-us-mcallenedinburgmissiontx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
