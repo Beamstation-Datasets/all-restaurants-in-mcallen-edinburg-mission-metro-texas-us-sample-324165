@@ -1,12 +1,12 @@
 {
-  "export_job_id": "c6f03ae9-0598-4e9f-8e53-ff70f7f3f5ce",
+  "export_job_id": "fb399db5-f9ca-4461-b4ed-32c05e2cf39d",
   "id_short": 324165,
-  "published_at": "2026-04-29T07:03:41Z",
+  "published_at": "2026-05-07T19:09:11Z",
   "repo_name": "all-restaurants-in-mcallen-edinburg-mission-metro-texas-us-sample-324165",
   "sample_asset_name": "beamstation_324165_restaurants-us-mcallenedinburgmissiontx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/324165/beamstation_324165_restaurants-us-mcallenedinburgmissiontx_SAMPLE_DIST.csv",
-  "sample_records": 139,
-  "sample_sha256": "ebf38aa3200a3ec4a2a794e8b3fe2a9a6817d65bf20856b7d033d72513f65baa",
-  "sample_size_bytes": 460683,
-  "total_records": 1393
+  "sample_records": 178,
+  "sample_sha256": "a74a7fd51a3fc4df5225afa6e305dbe4f8636e9cfbd891687943f122a724c0cc",
+  "sample_size_bytes": 668369,
+  "total_records": 1789
 }
